@@ -1,0 +1,5 @@
+package simple
+
+object SparkPersistence {
+  
+}
