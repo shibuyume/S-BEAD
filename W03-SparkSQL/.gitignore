@@ -1,1 +1,7 @@
 /bin/
+/project/
+/scala.master.parquet/
+/scala.trans.parquet/
+/scalaMaster.json/
+/target/
+/.settings/
