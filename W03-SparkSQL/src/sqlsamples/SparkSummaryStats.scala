@@ -1,0 +1,5 @@
+package sqlsamples
+
+object SparkSummaryStats {
+  
+}
