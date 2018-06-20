@@ -1,9 +1,9 @@
-package simple
+package sqlsamples
 
 import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.sql.functions._
 
-object SparkSQLStarterApps
+object SparkSQLStarterApps 
 {
 	// Create the Spark Session and the spark context				
 	val spark = SparkSession
