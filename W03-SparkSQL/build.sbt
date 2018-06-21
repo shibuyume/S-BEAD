@@ -1,4 +1,4 @@
-name := "W02-SparkApplication"
+name := "W03-SparkSQL"
 
 version := "1.0"
 
